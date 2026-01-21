@@ -64,7 +64,7 @@ Analyse sales performance to identify revenue trends, top-performing products, c
 
 # Data Modelling
 - Built a star schema:
-  - Fact table: Sales / Orders
+  - Fact table: Orders
   - Dimension table: Date
 - Created correct one-to-many relationships
 - Optimised the data model for performance and scalability
@@ -74,11 +74,11 @@ Analyse sales performance to identify revenue trends, top-performing products, c
 ✅ Modelling & Analysis
 
 # Key DAX Measures Created
-- Total Sales
+- sum of Sales
 - Sales Last Year (Same Period Last Year)
 - Sales Growth %
 - Average Order Value
-- Top N Products
+- Top N Products or top_performing products
 
 # Analytical Focus
 - Time-series analysis (monthly and yearly trends)
@@ -89,7 +89,7 @@ Analyse sales performance to identify revenue trends, top-performing products, c
 ---
 
 # Key Metrics & KPIs
-- Total Sales
+- sum of Sales
 - Sales Growth %
 - Average Order Value
 - Top-Performing Products
@@ -125,7 +125,7 @@ This distinction is important for understanding revenue drivers and informing pr
 # Tools Used
 - Excel – data source and initial exploration
 - Power Query – data cleaning and transformation
-- Power BI – data modelling, DAX, and visualisation
+- Power BI – data modelling and visualisation
 - DAX – KPI creation and time-intelligence calculations
 
 ---
@@ -135,7 +135,22 @@ This distinction is important for understanding revenue drivers and informing pr
 - Clean and validated data model
 - Business-focused insights supported by accurate metrics
 
----
 
+---
+**Kidima Medy Masuka**  
+Aspiring Data Scientist | Data Analyst  
+
+Focused on data-driven decision-making, risk analytics, and machine learning
+
+
+Usage & Attribution
+
+This project is shared for educational and portfolio purposes.  
+If reused or adapted, appropriate credit must be given to the author.
+
+I would like to thank Mr Pavan Lalwani for sharing this Excel dataset and guiding us step by 
+Step-by-step instructions on how to work with the Microsoft Business Intelligence software, Power BI
+
+📰This project is part of my personal data science and analytics portfolio ✅
 
 
