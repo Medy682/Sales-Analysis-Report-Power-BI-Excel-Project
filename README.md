@@ -6,7 +6,7 @@ Date: 2026
 
 
 ✅ Project Overview
-This project presents an end-to-end sales analysis using Excel and Power BI. The objective was to transform raw sales data into actionable business insights by applying proper data modelling, DAX time-intelligence, and business-focused KPIs. The final output is an interactive Power BI dashboard designed to support data-driven decision-making.
+This project presents an end-to-end sales analysis using an Excel dataset and Power BI. The objective was to transform raw sales data into actionable business insights by applying proper data modelling, DAX time-intelligence, and business-focused KPIs. The final output is an interactive Power BI dashboard designed to support data-driven decision-making.
 
 ---
 
