@@ -29,7 +29,7 @@ Analyse sales performance to identify revenue trends, top-performing products, c
 - Where are sales underperforming or declining?
 
 # Success Criteria
-- Clear KPIs (Total Sales, Sales Growth %, Total Profit)
+- Clear KPIs (sum of Sales, Sales Growth %, sum of Profit)
 - Actionable insights for business stakeholders
 - An interactive dashboard that supports exploration and decision-making
 
